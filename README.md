@@ -10,9 +10,11 @@
 
 # Supplementary description
 本仓库里的两个PDF文件，即为课程论文。一个是英文版本，一个是中文版本。  
-Feel free to download them!
-You are very welcome to contact me if you have any questions and cite this review as well!
+Feel free to download them!  
+Don't hesitate to contact me if you have any questions.
 
-# 
-
-
+# Citation
+If you find this useful, you are very welcome to cite this review!
+```
+Hzlbbfrog, Damage Detection and Structural Health Monitoring Using Deep Learning: A State-of-the-Art Review,  
+Github. https://https://github.com/hzlbbfrog/Research-Review, 2020.
