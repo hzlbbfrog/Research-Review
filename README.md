@@ -11,11 +11,11 @@
 # Supplementary description
 本仓库里的两个PDF文件，即为课程论文。一个是英文版本，一个是中文版本。  
 Feel free to download them!  
-Don't hesitate to contact me if you have any questions.
+Don't hesitate to contact me if you have any questions.  
 By the way, I prefer the Chinese Version because I had to write the English course paper with the help of Google and Baidu translation software due to the time restriction. ┐(ﾟ～ﾟ)┌
 
 # Citation
-If you find this useful, you are very welcome to cite this review!
+If you find this useful, you are very welcome to cite this review! ↓↓↓
 ```
 Hzlbbfrog, Damage Detection and Structural Health Monitoring Using Deep Learning: A State-of-the-Art Review,  
 Github. https://https://github.com/hzlbbfrog/Research-Review, 2020.
