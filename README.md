@@ -18,4 +18,4 @@ By the way, I prefer the Chinese Version because I had to write the English cour
 If you find this useful, you are very welcome to cite this review! ↓↓↓
 ```
 Hzlbbfrog, Damage Detection and Structural Health Monitoring Using Deep Learning: A State-of-the-Art Review,  
-Github. https://https://github.com/hzlbbfrog/Research-Review, 2020.
+Github. https://github.com/hzlbbfrog/Research-Review, 2020.
